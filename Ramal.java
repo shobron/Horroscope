@@ -4,14 +4,14 @@ public class Ramal {
 			{"Anda akan mendapatkan keberuntungan hari ini!", "Hari esok adalah hari terbaik anda!", "Besok anda akan mendapatkan surprise!"},
 			{"Karir anda akan meningkat tajam", "Profit bisnis anda cenderung naik bulan ini", "Promosi dan jabatan bergengsi akan anda dapatkan sebentar lagi!"},
 			{"Gagal lagi ya keuangannya? Kasian...", "kurang mampu mengatur pengeluaran akhirnya bangkrut", "tidak ada masukan tapi yang ada keluaran"},
-			{"Anda akan dilanda kesedihan yang mendalam", "", ""}	
+			{"Anda akan dilanda kesedihan yang mendalam", "Hati-hati! setelah ini anda akan merasa sedih", "Kenapa bahagia? Pokoknya anda harus sedih"}	
 	};
 	
 	String[][] shio = {
 			{"Impian anda akan segera terwujud", "Besok anda memiliki pacar", "Rezeki anda akan berlipat ganda hari ini"},
 			{"Kesuksesan sudah di depan mata", "Anda akan menjadi pengusaha kaya raya", "Usahamu tidak akan sia-sia"},
 			{"Harapannya ada pemasukan, tapi malah rugi. Duhdek!", "tidak cocok bekerja dalam ruangan karena hanya memperburuk pengeluaran", " tidak dapat mengatur keuangan yang melonjak tajam"},
-			{"", "", ""}	
+			{"Yang sabar ya!!", "Gagal lagi? Anda memang terlahir untuk gagal", "Jangan terlalu dipikirin ya sedihnya!"}	
 	};
 	
 	String[][] gabungan = {
